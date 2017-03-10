@@ -1,0 +1,17 @@
+tensorflow/tensorflow
+apple/swift
+google/protobuf
+opencv/opencv
+bitcoin/bitcoin
+electron/electron
+Microsoft/CNTK
+facebook/hhvm
+ReactiveX/RxJava
+elastic/elasticsearch
+square/retrofit
+Netflix/Hystrix
+facebook/fresco
+spring-projects/spring-framework
+libgdx/libgdx
+netty/netty
+NASAWorldWind/WorldWindJava
