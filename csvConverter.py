@@ -10,7 +10,7 @@ with open(sys.argv[1]) as projectfile:
     projects = projectfile.read().splitlines() 
 
 
-with open("csv.csv", "w") as csvfile:
+with open("output.csv", "w") as csvfile:
     fieldnames = ["name", "owner", "url", "version", "creation date", "stars", "watches", "forks", \
     "contributors", "languages", "open issues", "closed issues", "last year commit #", "description", "readme", \
     "Propagation Cost", "Architecture Type", "Core Size", "Central Size", "Lines of Code (LOC)", "Comment/Code Ratio", \
